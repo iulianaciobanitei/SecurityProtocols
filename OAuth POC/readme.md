@@ -22,7 +22,7 @@ a. In server/backend.py
 ## Install dependencies
 1. React 
    >cd client\
-   >npm install\ 
+   >npm install\
    >npm install axios\
    >npm install web-vitals\
 2. Flask
@@ -32,5 +32,5 @@ a. In server/backend.py
 1. Server
     >python ./server/backend.py
 2. Client
-    >cd client
+    >cd client\
     >npm start
