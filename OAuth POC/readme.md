@@ -17,7 +17,7 @@
    a. In server/backend.py\
    b. in client/src/App.js
    
-6. Update client secret
+6. Update client secret\
 a. In server/backend.py
 
 
