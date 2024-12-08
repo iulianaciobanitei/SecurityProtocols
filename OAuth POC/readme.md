@@ -10,12 +10,14 @@
 ## OAuth 2.0 config
 1. Setup a Google Cloud Console account.
 2. Follow [this tutorial](https://www.youtube.com/watch?v=HtJKUQXmtok) to configure an OAuth2.0 client for Google\
-   a. Use redirect URI: http://localhost:3000/callback\
-   b. Save client id & client secret\
-3. Update client id\
+   a. Use redirect URI: http://localhost:3000/callback \
+   b. Save client id & client secret
+   
+4. Update client id\
    a. In server/backend.py\
-   b. in client/src/App.js\
-4. Update client secret
+   b. in client/src/App.js
+   
+6. Update client secret
 a. In server/backend.py
 
 
