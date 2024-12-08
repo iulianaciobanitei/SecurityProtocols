@@ -24,7 +24,7 @@ a. In server/backend.py
    >cd client\
    >npm install\
    >npm install axios\
-   >npm install web-vitals\
+   >npm install web-vitals
 2. Flask
    >pip install flask requests flask-cors
 
